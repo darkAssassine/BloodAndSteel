@@ -1,0 +1,45 @@
+{
+    "name": "inp_base",
+    "maps": [
+        {
+            "name": "Base",
+            "id": "13ff0cda-ce07-4504-9268-ec92089b357a",
+            "actions": [
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "6ed1cdb3-dfb2-45e4-8a9e-640e50716eb0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a9e6ebcc-f0a1-4efc-8608-6e29c15360cc",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fd12fc72-978d-400a-8250-3a1636beb4ea",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

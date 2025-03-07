@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI/MainMenu/MainMenu.unity
+    guid: 2b43ad3528db7b845b28e78869208471
+  - enabled: 1
+    path: Assets/Level/Level1/Level_1.unity
+    guid: dbd3bc4db8db8a048815e01d530638f4
+  - enabled: 1
+    path: Assets/UI/OptionsMenu/OptionsMenu.unity
+    guid: bf076bbd934c9874291fa0a33466b365
+  - enabled: 1
+    path: Assets/UI/PermanentShop/PermanentShop.unity
+    guid: 8cb6985251360ed4c8e291af5790f89e
+  - enabled: 1
+    path: Assets/UI/UpgradeShop/UpgradeShop.unity
+    guid: c291469f3026868469223ed865026dd6
+  - enabled: 1
+    path: Assets/UI/ScenarioScreen/ScenarioScreen.unity
+    guid: 66880c045d2ff8348bc7378bb3b9f360
+  - enabled: 1
+    path: Assets/UI/RunOverScreen/LoosingScreen/LoosingScreen.unity
+    guid: 15956cbbeb7911143b084b2f9c4b7210
+  - enabled: 1
+    path: Assets/UI/RunOverScreen/WinningScreen/WinningScreen.unity
+    guid: 2146597754b5cdd4bad5f2a6695fb5da
+  - enabled: 1
+    path: Assets/Level/Level1/Level_2.unity
+    guid: d429dab553511c44687dc769fcf7212f
+  - enabled: 1
+    path: Assets/Level/Level1/Level_3.unity
+    guid: 212faaa9b1ffadd4ca8e4dd14efc811e
+  - enabled: 1
+    path: Assets/Level/Level1/Level_4.unity
+    guid: b969e31b9bdcfe94ea6e891fb08ec7b8
+  - enabled: 1
+    path: Assets/Level/Level1/Level_5.unity
+    guid: 57d80b9f9ac24154788255ec1a620b59
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 072fb5f3babbb0841a3f17e2b9b25704,
+      type: 2}
