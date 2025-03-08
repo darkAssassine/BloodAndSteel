@@ -2,11 +2,11 @@
 
 **Blood and Steel** was my second-semester project at S4G School for Games. It is a **3D arena fighting game** where players battle against hordes of enemies. The development time was **10 weeks**, and during this project, I focused on writing **cleaner and more structured code** compared to my previous project, *Tuuli and the Windy Mountain*. While there's still room for improvement, this project marked a significant step forward in my programming skills.
 
-<img src="https://github.com/darkAssassine/Assets/blob/654ed62f2da5fd7bbbb1262b96b5b466de53a048/img/TuuliAndTheWindyMountainMain.gif" width="500px" align="center">
+<img src="https://github.com/darkAssassine/Assets/blob/9713dd491759684fba82a8155dce4c1df7cef0ed/img/BloodAndSteelMain.png" width="500px" align="center">
 
-<img src="https://github.com/darkAssassine/Assets/blob/654ed62f2da5fd7bbbb1262b96b5b466de53a048/img/TuuliAndTheWindyMountainGameplay0.gif" width="500px" align="center">
+<img src="https://github.com/darkAssassine/Assets/blob/9713dd491759684fba82a8155dce4c1df7cef0ed/img/BloodAndSteel0.gif" width="500px" align="center">
 
-<img src="https://github.com/darkAssassine/Assets/blob/654ed62f2da5fd7bbbb1262b96b5b466de53a048/img/TuuliAndTheWindyMountainGameplay1.gif" width="500px" align="center">
+<img src="https://github.com/darkAssassine/Assets/blob/9713dd491759684fba82a8155dce4c1df7cef0ed/img/BloodAndSteel1.gif" width="500px" align="center">
 
 ## About the Game
 
